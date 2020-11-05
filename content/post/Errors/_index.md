@@ -63,7 +63,7 @@ Errors are important for learning, but the issue concerning coaches is how do we
 In 2004, Guadagnoli and Lee proposed the Challenge Point framework. Here, the authors detail the effects of practice conditions relative to skill level of the performer and task difficulty. Figure 1 below demonstrates the function between task performance and task difficulty. The section in yellow encompasses an area of skill performance where the task or exercise is very simple and therefore easy to perform, which leads to increased performance. The section in red encompasses increased task or exercise difficulty where performance of the skill is decreased. The white zone in the middle presents a zone where there is desirable difficulty (Yan, Guadagnoli & Haycocks, 2019). This zone in the middle and where the large dot is, presents the optimal challenge point, where the performer makes a moderate amount of errors, but is still able to successfully perform the skill quite well. Immediate performance in this zone is not optimal, but it presents an appropriate amount of failure. 
 
 
-![image alt text](content/post/Errors/mfigure-1.png)
+![Gaudagnoli & Lee, 2004](static/media/figure-1.png)
 
 {{< figure src="content/post/Errors/figure-1.png">}}
  
