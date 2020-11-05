@@ -37,22 +37,22 @@ projects: []
 Blog 1
 Why errors are the most important thing for practice
 
-“Learning cannot occur in the absence of information.” (Guadagnoli & Lee, 2004)
+_“Learning cannot occur in the absence of information.” (Guadagnoli & Lee, 2004)_
 
 I participated in many teams across many sports when I grew up. A majority of the coaches I had all had common sayings, with one of these being “no drop balls”. Whether it was basketball, rugby or touch football. But why do coaches generally encourage practice without errors, and what affect does this have on match-day performance? 
 
 
 Across all domains, errors and mistakes are important. The importance of errors originates from the idea that a mistake presents an opportunity to learn from the mistake. But before I go into why errors are important for performance in team sport, we must differentiate two important concepts: performance and learning. 
 
-Performance is a temporary and acute change in behaviour. 
+**Performance** is a temporary and acute change in behaviour. 
 
-Learning is a long-term adaptation that results in a more permanent and sustainable behaviour change. 
+**Learning** is a long-term adaptation that results in a more permanent and sustainable behaviour change. 
 
 The paradox here is that errors enhance learning outcomes whilst concurrently hindering the acute performance of the skill. 
-For example, a performer may be practicing handballing during training. They may be passing to a stationary target, consistently making successful passes that the recipient player catches. Here, the acute performance is very good. There are no mistakes as the conditions are repetitive and predictable. However, if we introduced a defender and a moving target, acute performance becomes poorer due to the increased uncertainty of where to pass to, which hand to pass with and what impact the defender will have. The second condition is more challenging, more engaging and demands increased attention from the player that is handballing because of the unpredictability. As a result, there are more errors in this context, compared to the first. BUT, there is greater learning as the performer adapts how they plan, respond and execute the handball. Moreover, because the performer is continually adapting, they will likely make more errors.
+For example, a performer may be practicing handballing during training. They may be passing to a stationary target, consistently making successful passes that the recipient player catches. Here, the acute performance is very good. There are no mistakes as the conditions are repetitive and predictable. However, if we introduced a defender and a moving target, acute performance becomes poorer due to the increased uncertainty of where to pass to, which hand to pass with and what impact the defender will have. The second condition is more challenging, more engaging and demands increased attention from the player that is handballing because of the unpredictability. As a result, there are more errors in this context, compared to the first. **BUT,** there is greater learning as the performer adapts how they plan, respond and execute the handball. Moreover, because the performer is continually adapting, they will likely make more errors.
 
 
-Hence, errors can provide an indication or proxy of the potential for learning.
+_Hence, errors can provide an indication or proxy of the potential for learning._
 
 
 Errors are important for learning, but the issue concerning coaches is how do we implement an appropriate amount of challenge (that results in errors) that is specific for the task and the skill level of the performer? We definitely do not want to design practice that doesn’t correspond to the level of the performer(s). Here, making practice too easy can be demotivating as it doesn’t challenge, and making practice too hard can lead to frustration. In both scenarios, there may not be adequate benefits.  
@@ -60,7 +60,7 @@ Errors are important for learning, but the issue concerning coaches is how do we
 
 
 
-In 2004, Guadagnoli and Lee proposed the Challenge Point framework. Here, the authors detail the effects of practice conditions relative to skill level of the performer and task difficulty. Figure 1 below demonstrates the function between task performance and task difficulty. The section in yellow encompasses an area of skill performance where the task or exercise is very simple and therefore easy to perform, which leads to increased performance. The section in red encompasses increased task or exercise difficulty where performance of the skill is decreased. The white zone in the middle presents a zone where there is desirable difficulty (Yan, Guadagnoli & Haycocks, 2019). This zone in the middle and where the large dot is, presents the optimal challenge point, where the performer makes a moderate amount of errors, but is still able to successfully perform the skill quite well. Immediate performance in this zone is not optimal, but it presents an appropriate amount of failure. 
+In 2004, Guadagnoli and Lee proposed the **Challenge Point framework**. Here, the authors detail the effects of practice conditions relative to skill level of the performer and task difficulty. Figure 1 below demonstrates the function between task performance and task difficulty. The section in yellow encompasses an area of skill performance where the task or exercise is very simple and therefore easy to perform, which leads to increased performance. The section in red encompasses increased task or exercise difficulty where performance of the skill is decreased. The white zone in the middle presents a zone where there is desirable difficulty (Yan, Guadagnoli & Haycocks, 2019). This zone in the middle and where the large dot is, presents the optimal challenge point, where the performer makes a moderate amount of errors, but is still able to successfully perform the skill quite well. Immediate performance in this zone is not optimal, but it presents an appropriate amount of failure. 
 
 
 ![Gaudagnoli & Lee, 2004](figure-1.png)
