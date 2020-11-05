@@ -64,8 +64,6 @@ In 2004, Guadagnoli and Lee proposed the Challenge Point framework. Here, the au
 
 
 ![Gaudagnoli & Lee, 2004](/figure-1.png)
-
-{{< src="content/post/Errors/figure-1.png">}}
  
 Figure 1. A graphical depiction of the optimal challenge point (OCP). The solid line is performance on the immediate task, the dotted line represents learning. The peak of the dotted curve represents the difficulty level at which learning is optimised. Image is adapted from Hodges and Williams (2019) (Chapter 17), who adapted it from Guadagnoli and Lee (2004), with permission. 
 
