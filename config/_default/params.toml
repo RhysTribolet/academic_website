@@ -113,8 +113,8 @@ email = "triboletr@sydneyswans.com.au"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "Message Me", link = "https://twitter.com/RhysTribolet"},
-  {icon = "researchgate", icon_pack = "fab", name = "ResearchGate ", link = "https://www.researchgate.net/profile/Rhys_Tribolet"},
-  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  {icon = "researchgate", icon_pack = "fab", name = "ResearchGate", link = "https://www.researchgate.net/profile/Rhys_Tribolet"},
+  #{icon = "sci-hub", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
