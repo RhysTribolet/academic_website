@@ -65,7 +65,6 @@ In 2004, Guadagnoli and Lee proposed the **Challenge Point framework**. Here, th
 
 
 ![Gaudagnoli & Lee, 2004](figure-1.png)
- 
 Figure 1. A graphical depiction of the optimal challenge point (OCP). The solid line is performance on the immediate task, the dotted line represents learning. The peak of the dotted curve represents the difficulty level at which learning is optimised. Image is adapted from Hodges and Williams (2019) (Chapter 17), who adapted it from Guadagnoli and Lee (2004), with permission. 
 
 
@@ -86,7 +85,6 @@ How can the challenge point framework help us cater for different skill levels?
 On this concern, Guadagnoli and Lee (2004) depict an appropriate figure that helps visualise the varying challenge point for the level of performer a coach is working with. 
 
  ![Gaudagnoli & Lee, 2004](figure-2.png)
-
 Figure 2. Optimal challenge points for learning (retention and transfer) related to different skill levels, functional task difficulty, and potential available information arising from action, with optimal challenge points resulting earlier (lower functional difficulty) for less experienced performers. 
 
 
