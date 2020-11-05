@@ -10,7 +10,7 @@ role: Performance Analyst and PhD Student
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Technology Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
