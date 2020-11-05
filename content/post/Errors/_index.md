@@ -85,7 +85,7 @@ As coaches or practitioners helping coaches design practice, we cannot implement
 
 On this concern, Guadagnoli and Lee (2004) depict an appropriate figure that helps visualise the varying challenge point for the level of performer a coach is working with. 
 
- 
+ ![Gaudagnoli & Lee, 2004](figure-2.png)
 
 Figure 2. Optimal challenge points for learning (retention and transfer) related to different skill levels, functional task difficulty, and potential available information arising from action, with optimal challenge points resulting earlier (lower functional difficulty) for less experienced performers. 
 
