@@ -34,8 +34,7 @@ image:
 projects: []
 ---
 
-Blog 1
-Why errors are the most important thing for practice
+Why errors might be the most important thing for practice
 
 _“Learning cannot occur in the absence of information.” (Guadagnoli & Lee, 2004)_
 
@@ -49,7 +48,9 @@ Across all domains, errors and mistakes are important. The importance of errors 
 **Learning** is a long-term adaptation that results in a more permanent and sustainable behaviour change. 
 
 The paradox here is that errors enhance learning outcomes whilst concurrently hindering the acute performance of the skill. 
-For example, a performer may be practicing handballing during training. They may be passing to a stationary target, consistently making successful passes that the recipient player catches. Here, the acute performance is very good. There are no mistakes as the conditions are repetitive and predictable. However, if we introduced a defender and a moving target, acute performance becomes poorer due to the increased uncertainty of where to pass to, which hand to pass with and what impact the defender will have. The second condition is more challenging, more engaging and demands increased attention from the player that is handballing because of the unpredictability. As a result, there are more errors in this context, compared to the first. **BUT,** there is greater learning as the performer adapts how they plan, respond and execute the handball. Moreover, because the performer is continually adapting, they will likely make more errors.
+For example, a performer may be practicing handballing during training. They may be passing to a stationary target, consistently making successful passes that the recipient player catches. Here, the acute performance is very good. There are no mistakes as the conditions are repetitive and predictable. However, if we introduced a defender and a moving target, acute performance becomes poorer due to the increased uncertainty of where to pass to, which hand to pass with and what impact the defender will have. The second condition is more challenging, more engaging and demands increased attention from the player that is handballing because of the unpredictability. As a result, there are more errors in this context, compared to the first. 
+
+**BUT,** there is greater learning as the performer adapts how they plan, respond and execute the handball. Moreover, because the performer is continually adapting, they will likely make more errors.
 
 
 _Hence, errors can provide an indication or proxy of the potential for learning._
@@ -71,17 +72,16 @@ Figure 1. A graphical depiction of the optimal challenge point (OCP). The solid 
 In the middle section in Figure 1, there is failure occurring, but at an appropriate and motivating level. As a result, there is decreased and poorer short-term performance, but increased and superior long-term learning. Long-term learning results in enhanced skill retention and transfer to other similar contexts, like competitive games. 
 
 Because unpredictable training activities leads to increased uncertainty of outcomes like who to pass to and where/when to make the pass, the performer must solve numerous problems instantaneously. This makes learning a continuous problem-solving process. Performers or players must continually adapt to each changing scenario. 
+
+
 Within each scenario, the information the performers utilise to make decisions may change. Here, information represents the key points of the environment that the players use to make decisions, such as where the defenders are, how fast they are moving, the position of the boundary lines, the position of the closest teammate etc. As a rule of thumb, the more information in an activity, the more challenging it will be for the performers. 
-However, there is a critical assumption here: as suggested by Martiniuk (1976), practice leads to redundancy and lower uncertainty (i.e. improved anticipation, decision-making and skill; Farrow et al., 2013), and as a result, reduced information. It is like driving a car. When you were learning, you were highly engaged, attentive, likely did not play music loudly and did not chat with some concurrently. As you get better, you don’t need to pay as much attention to the performance of the skill. This showcases how humans seek efficiency and demonstrates that the economy of attention improves with increased practice. 
+However, there is a critical assumption here: as suggested by Martiniuk (1976), _practice leads to redundancy and lower uncertainty_ (i.e. improved anticipation, decision-making and skill; Farrow et al., 2013), and as a result, reduced information. It is like driving a car. When you were learning, you were highly engaged, attentive, likely did not play music loudly and did not chat with someone concurrently. As you get better, you don’t need to pay as much attention to the performance of the skill. This showcases how humans seek efficiency and demonstrates that the economy of attention improves with increased practice. 
 
 The reduced information that Martiniuk referred to suggests that the challenge point for the performer will change with increased amounts of practice. That is, as the performer gets better, the coaches must design practice that is scaled to appropriately continue to challenge the performer. This way, information presented to the performer(s) is still relevant and maintains engagement and attention. 
 
 Additional to these points concerns how we scale practice appropriately for performers of different skill levels. 
 
-
-How can the challenge point framework help us cater for different skill levels? 
-
-As coaches or practitioners helping coaches design practice, we cannot implement the same activity for experts or professionals and then for novices and expect the same response or benefits.  
+How can the challenge point framework help us cater for different skill levels?  
 
 On this concern, Guadagnoli and Lee (2004) depict an appropriate figure that helps visualise the varying challenge point for the level of performer a coach is working with. 
 
