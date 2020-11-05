@@ -4,9 +4,9 @@ subtitle: 'About the website'
 summary: What is the purpose and why it might be interesting
 authors:
 - admin
-- Rhys Tribolt
+- Rhys Tribolet
 tags:
-- Academic
+- Skill acquisition
 categories:
 - Skill acquisition
 - Analysis
