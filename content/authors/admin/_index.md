@@ -67,7 +67,9 @@ user_groups:
 ---
 
 I am a PhD student at the University of Technology Sydney and a performance analyst at the Sydney Swans Football Club in the AFL. 
+
 I am aiming to share research and work related ideas on some concepts in skill acquisition and performance analysis. 
+
 Feel free to contact me via email or through Twitter. 
 
 
