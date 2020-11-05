@@ -1,14 +1,16 @@
 ---
-title: 'The what and why of skill acquisition and subsequent analysis'
-subtitle: 'On skillfulness in sport'
-summary: What is the purpose and why it might be interesting
+title: 'Errors and Learning'
+subtitle: 'Desireable difficulty can enhance match performance'
+summary: I'll explain why a moderate amount of errors can be beneficial for performance
 authors:
 - admin
 tags:
 - Skill acquisition
+- Practice  
 categories:
 - Skill acquisition
-- Analysis
+- Learning
+- Team Sport
 date: "2016-04-20T00:00:00Z"
 lastmod: "2019-04-17T00:00:00Z"
 featured: false
@@ -20,7 +22,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Davids and coleagues (2003)**](https://www.researchgate.net/publication/10810355_Movement_systems_as_dynamical_systems_the_functional_role_of_variability_and_its_implications_for_sports_medicine/figures?lo=1)'
+  caption: 'Image credit: [**Freshbooks**](https://www.freshbooks.com/blog/invoicing-mistakes)'
   focal_point: "Smart"
   preview_only: false
 
