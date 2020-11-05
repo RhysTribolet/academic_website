@@ -1,5 +1,5 @@
 ---
-title: 'Introduction'
+title: 'The what and why of skill acquisition and subsequent analysis'
 subtitle: 'About the website'
 summary: What is the purpose and why it might be interesting
 authors:
