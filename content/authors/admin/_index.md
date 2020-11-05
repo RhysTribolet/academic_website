@@ -23,9 +23,9 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Sport and Exercise Science
+    institution: University of Technology Sydney
+    year: 2018 - Current
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
