@@ -26,12 +26,9 @@ education:
   - course: PhD in Sport and Exercise Science
     institution: University of Technology Sydney
     year: 2018 - Current
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Sport and Exercise Science
+    institution: University of Technology Sydney
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
