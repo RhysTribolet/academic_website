@@ -11,7 +11,7 @@ role: Performance Analyst and PhD Student
 # Organizations/Affiliations
 organizations:
 - name: University of Technology Sydney
-  url: ""
+  url: "https://www.uts.edu.au/about/faculty-health/school-sport-exercise-and-rehabilitation/human-performance-research-centre"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include collective skill acquisition, team sports, performance analysis and youth sport
