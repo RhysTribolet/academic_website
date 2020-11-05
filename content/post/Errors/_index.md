@@ -34,6 +34,4 @@ image:
 projects: []
 ---
 
-**Create a free website with Academic using Markdown, Jupyter, or RStudio. Choose a beautiful color theme and build anything with the Page Builder - over 40 _widgets_, _themes_, and _language packs_ included!**
-
 Skill acquisition is an established field aiming to help individuals and collective groups enhance their ability to perform a specific (set of) task(s).
