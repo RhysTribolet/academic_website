@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Rhys Tribolet
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Performance Analyst and PhD Student
 
 # Organizations/Affiliations
 organizations:
