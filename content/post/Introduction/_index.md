@@ -22,7 +22,7 @@ draft: false
 image:
   placement: 2
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ""
+  focal_point: "Smart"
   preview_only: false
 
 # Projects (optional).
