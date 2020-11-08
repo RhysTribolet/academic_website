@@ -26,7 +26,7 @@ education:
   - course: PhD in Sport and Exercise Science
     institution: University of Technology Sydney
     year: 2018 - Current
-  - course: BSc in Sport and Exercise Science
+  - course: BSc in Sport and Exercise Science (Honours)
     institution: University of Technology Sydney
     year: 2017
 
