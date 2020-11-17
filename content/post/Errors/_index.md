@@ -12,7 +12,7 @@ categories:
 - Learning
 - Team Sport
 date: "2020-10-01"
-lastmod: "2019-04-17T00:00:00Z"
+lastmod: "2020-10-01"
 featured: true
 draft: false
 
