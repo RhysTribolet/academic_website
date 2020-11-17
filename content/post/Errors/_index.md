@@ -11,7 +11,7 @@ categories:
 - Skill acquisition
 - Learning
 - Team Sport
-date: "2016-04-20T00:00:00Z"
+date: "2020-10-01"
 lastmod: "2019-04-17T00:00:00Z"
 featured: true
 draft: false
