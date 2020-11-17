@@ -12,7 +12,7 @@ date: "2018"
 doi: "10.1016/j.jsams.2018.12.014"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018"
+publishDate: "2018-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

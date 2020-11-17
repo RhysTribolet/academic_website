@@ -11,7 +11,7 @@ date: "2018"
 doi: "10.1080/02640414.2018.1468301"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2018"
+publishDate: "2018-06-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
