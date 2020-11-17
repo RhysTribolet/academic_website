@@ -8,7 +8,7 @@ authors:
 - Job Fransen
 author_notes:
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2018"
 doi: "10.1016/j.jsams.2018.12.014"
 
 # Schedule page publish date (NOT publication's date).
