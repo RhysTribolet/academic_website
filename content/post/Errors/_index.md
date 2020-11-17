@@ -13,7 +13,7 @@ categories:
 - Team Sport
 date: "2020-10-01"
 lastmod: "2020-10-01"
-featured: false
+featured: true
 draft: false
 
 # Featured image
