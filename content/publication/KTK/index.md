@@ -1,5 +1,5 @@
 ---
-title: "From entry to elite: The relative age effect in the Australian football talent pathway"
+title: "The Use of the Körperkoordinationstest für Kinder in the Talent Pathway in Youth Athletes: A Systematic Review"
 authors:
 - Jade O'Brien-Smith
 - admin
@@ -14,7 +14,7 @@ date: "2019"
 doi: "10.1016/j.jsams.2019.05.014"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
