@@ -7,7 +7,7 @@ authors:
 - Job Fransen
 author_notes:
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2018"
 doi: "10.1080/02640414.2018.1468301"
 
 # Schedule page publish date (NOT publication's date).
