@@ -18,7 +18,7 @@ subtitle = ""
   count = 0
   
   # Choose how many pages you would like to offset by
-  offset = 1
+  offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
   order = "desc"
@@ -28,7 +28,7 @@ subtitle = ""
     tag = ""
     category = ""
     publication_type = ""
-    author = ""
+    author = "admin"
     exclude_featured = false
   
 [design]
